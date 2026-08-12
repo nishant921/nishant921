@@ -4,7 +4,7 @@ Hi, I'm Nishant Chaurasia 👋
 
 📊 Aspiring Data Scientist & AI Enthusiast
 
-💻 Currently Learning
+💻 Currently Learning 
 
 Python
 SQL
