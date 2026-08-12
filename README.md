@@ -13,6 +13,8 @@ Machine Learning
 Power BI
 Tableau
 Frontend Development
+
+
 🛠️ Tech Stack
 
 Python
@@ -26,6 +28,8 @@ Power BI
 Tableau
 Git & GitHub
 HTML & CSS
+
+
 📜 Certifications
 
 Tata GenAI Powered Data Analytics Job Simulation
