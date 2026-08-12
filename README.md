@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi, I'm Nishant Chaurasia 👋
 
-<!--
-**nishant921/nishant921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student at DSEU
 
-Here are some ideas to get you started:
+📊 Aspiring Data Scientist & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+
+Python
+SQL
+Data Analysis
+Machine Learning
+Power BI
+Tableau
+Frontend Development
+🛠️ Tech Stack
+
+Python
+SQL
+C
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Power BI
+Tableau
+Git & GitHub
+HTML & CSS
+📜 Certifications
+
+Tata GenAI Powered Data Analytics Job Simulation
+Deloitte Data Analytics Job Simulation
+British Airways Data Science Job Simulation
+AI Skills Passport – Microsoft & EY
+Trust and Security – Google Cloud
+🚀 Projects
+
+Sales Data Analysis Dashboard
+Student Grade Management System
+Data Analysis Projects
+📫 Connect With Me
+
+📧 Email: nishankumarji@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/nishant-chaurasia-aa3093326
