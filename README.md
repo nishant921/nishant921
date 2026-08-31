@@ -32,9 +32,9 @@ HTML & CSS
 
 📜 Certifications
 
-Tata GenAI Powered Data Analytics Job Simulation
-Deloitte Data Analytics Job Simulation
-British Airways Data Science Job Simulation
+Tata GenAI Powered Data Analytics Job Simulation  
+Deloitte Data Analytics Job Simulation  
+British Airways Data Science Job Simulation  
 AI Skills Passport – Microsoft & EY
 Trust and Security – Google Cloud
 🚀 Projects
